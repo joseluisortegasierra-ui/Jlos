@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "@id": "https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/#article",
+  "url": "https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/",
+  "headline": "Los seis años sin salir de casa de José Luis: “La agorafobia es el miedo al miedo, a perder el control de la situación”",
+  "datePublished": "2026-09-19",
+  "inLanguage": "es",
+  "author": {
+    "@type": "Person",
+    "name": "Lydia Hernández Téllez"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Infobae",
+    "url": "https://www.infobae.com/"
+  },
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Agorafobia"
+    },
+    {
+      "@type": "Thing",
+      "name": "Accesibilidad de trámites por escrito"
+    }
+  ],
+  "description": "Referencia al reportaje original de Infobae sobre la experiencia de José Luis con agorafobia y sus barreras cotidianas. Para el contenido y el contexto periodístico, consultar la fuente original."
+}
