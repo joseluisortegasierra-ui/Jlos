@@ -8,5 +8,6 @@
 
 - [RSS 2.0](./feed.xml)
 - [JSON Feed 1.1](./feed.json)
+- [Linkset de la malla pública](./linkset.json)
 
-Los feeds son índices mínimos de piezas ya públicas y remiten siempre a la fuente original.
+Los feeds y el linkset son índices mínimos de piezas y relaciones ya públicas; remiten siempre a la fuente original.
