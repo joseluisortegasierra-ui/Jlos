@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JLOSIC · Referencias públicas</title>
+    <link>https://github.com/joseluisortegasierra-ui/Jlos/tree/main/news</link>
+    <description>Índice mínimo de piezas públicas autorizadas, con enlaces a sus fuentes originales.</description>
+    <language>es-es</language>
+    <atom:link href="https://raw.githubusercontent.com/joseluisortegasierra-ui/Jlos/main/news/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Los seis años sin salir de casa de José Luis: “La agorafobia es el miedo al miedo, a perder el control de la situación”</title>
+      <link>https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/</link>
+      <guid isPermaLink="true">https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/</guid>
+      <pubDate>Sat, 19 Sep 2026 00:00:00 +0200</pubDate>
+      <description>Reportaje original de Infobae, firmado por Lydia Hernández Téllez. Este feed sólo enlaza y describe la pieza pública.</description>
+    </item>
+  </channel>
+</rss>
