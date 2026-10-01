@@ -1,0 +1,41 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/",
+      "describedby": [
+        {
+          "href": "https://raw.githubusercontent.com/joseluisortegasierra-ui/Jlos/main/news/infobae-2026-09-19.jsonld",
+          "type": "application/ld+json"
+        }
+      ],
+      "alternate": [
+        {
+          "href": "https://raw.githubusercontent.com/joseluisortegasierra-ui/Jlos/main/news/feed.xml",
+          "type": "application/rss+xml",
+          "hreflang": "es",
+          "title": "JLOSIC · Referencias públicas · RSS 2.0"
+        },
+        {
+          "href": "https://raw.githubusercontent.com/joseluisortegasierra-ui/Jlos/main/news/feed.json",
+          "type": "application/feed+json",
+          "hreflang": "es",
+          "title": "JLOSIC · Referencias públicas · JSON Feed 1.1"
+        }
+      ],
+      "related": [
+        {
+          "href": "https://www.facebook.com/InfobaeEspana/posts/1063533543321846/",
+          "title": "Publicación oficial de Infobae España en Facebook"
+        },
+        {
+          "href": "https://es.linkedin.com/posts/antonio-cano-vindel-61b41a47_los-seis-a%C3%B1os-sin-salir-de-casa-de-jos%C3%A9-luis-activity-7506984198520446977-Mu66",
+          "title": "Comentario público de Antonio Cano Vindel"
+        },
+        {
+          "href": "https://muckrack.com/lydia-hernandez-tellez/articles",
+          "title": "Índice profesional de artículos de Lydia Hernández Téllez"
+        }
+      ]
+    }
+  ]
+}
