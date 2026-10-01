@@ -1,0 +1,17 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "JLOSIC · Referencias públicas",
+  "home_page_url": "https://github.com/joseluisortegasierra-ui/Jlos/tree/main/news",
+  "feed_url": "https://raw.githubusercontent.com/joseluisortegasierra-ui/Jlos/main/news/feed.json",
+  "language": "es",
+  "description": "Índice mínimo de piezas públicas autorizadas, con enlaces a sus fuentes originales.",
+  "items": [
+    {
+      "id": "https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/",
+      "url": "https://www.infobae.com/espana/2026/09/19/los-seis-anos-sin-salir-de-casa-de-jose-luis-la-agorafobia-es-el-miedo-al-miedo-a-perder-el-control-de-la-situacion/",
+      "title": "Los seis años sin salir de casa de José Luis: “La agorafobia es el miedo al miedo, a perder el control de la situación”",
+      "content_text": "Reportaje original de Infobae, firmado por Lydia Hernández Téllez. Este feed sólo enlaza y describe la pieza pública.",
+      "date_published": "2026-09-19T00:00:00+02:00"
+    }
+  ]
+}
